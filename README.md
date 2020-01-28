@@ -4,7 +4,7 @@ A generic AI search agent, implemented in Java.
 
 The project is a part of the practical assignment(s) for the course of _Artificial Intelligence_ in the GUC.
 
-A maze problem (based on the Avengers movies) is implemented as well according to the [description](https://github.com/AbdullahKady/ai-search-agent/blob/master/project-description.pdf).
+A maze problem (based on the Avengers movies) is implemented as well according to the [description](https://github.com/mohGhazala96/AI-Search-Alogrithms/blob/master/project-description.pdf).
 
 ## Implemented algorithms
 
